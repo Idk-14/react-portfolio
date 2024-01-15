@@ -8,19 +8,11 @@
     "source": "https://github.com/Idk-14/pinterest-clon"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Expense Tracker",
+    "imageSrc": "projects/expenseTracker.png",
+    "description": "We completed a project in React where we utilized the React Context API, LocalStorage, as well as Tailwind CSS and Victory modules for web interfaces.",
+    "skills": ["React", "Vite", "TailwindCss"],
+    "demo": "https://expense-tracker-one-flax.vercel.app",
+    "source": "https://github.com/Idk-14/expense-tracker"
   }
 ]
