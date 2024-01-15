@@ -1,11 +1,11 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Pinterest Clon",
+    "imageSrc": "projects/clonpinterest.png",
+    "description": "We carried out a project in React, a visual clone of Pinterest using the 'Masonry' component from Material UI, as well as the infinite scroll package, the 'unsplash' image repository, and finally 'zustand' for global states.",
+    "skills": ["Vite"],
+    "demo": "https://pinterest-clon-virid.vercel.app",
+    "source": "https://github.com/Idk-14/pinterest-clon"
   },
   {
     "title": "Project B",
